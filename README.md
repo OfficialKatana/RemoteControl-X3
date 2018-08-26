@@ -1,7 +1,7 @@
 <p><H2>Saurik Remote Control Software Version 3.0 (V3)</H2></p>
 <p>This is a software that using Saurik Hade Framework.</p>
 <p>Kernel: Saurik RMS V3 (CN)</p>
-<p>What's work?</p>
+<p>What's working?</p>
 <table>
 	<tr>
 		<th>Firewall penetrating through</th>
