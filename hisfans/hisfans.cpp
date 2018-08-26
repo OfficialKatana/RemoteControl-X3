@@ -3,6 +3,17 @@
 
 #include "stdafx.h"
 
+/*
+*                    GNU GENERAL PUBLIC LICENSE
+*                       Version 3, 29 June 2007
+*
+* Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+* Everyone is permitted to copy and distribute verbatim copies
+* of this license document, but changing it is not allowed.
+* 
+* Saurik Remote Control Software V3 is under a GPLv3 Licence. You can share or change those code under licence.
+*/
+
 #include "ykdef.h"
 #ifdef _WIN32
 #include <io.h>
