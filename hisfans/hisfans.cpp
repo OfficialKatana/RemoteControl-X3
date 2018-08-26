@@ -15,6 +15,7 @@ BOOL startService();
 BOOL uninstallService();
 #endif
 #ifndef _WIN32
+#define closesocket close
 #define Sleep(x) sleep(x/1000)
 #endif
 

@@ -35,16 +35,16 @@
 </table>
 
 <p><H2>Version (Released) History</H2></p>
-<p>V1、X1 (non-opensource)</p>
-<p>V2、X2 (non-opensource)</p>
-<p>V3 (opensource)</p>
-<p>X3 (non-opensource)</p>
-<p>V4、V5 (non-opensource)</p>
-<p>V6、X6 (non-opensource)</p>
-<p>V7、X7 (non-opensource)</p>
-<p>V8、X8 (non-opensource)</p>
-<p>V9、X9 (non-opensource)</p>
-<p>V10、X10 (non-opensource) ( <- latest version )</p>
+<p>V1、X1 Kot (non-opensource)</p>
+<p>V2、X2 Bro (non-opensource)</p>
+<p>V3 Hade (opensource)</p>
+<p>X3 Hade (non-opensource)</p>
+<p>V4、V5 Jelly (non-opensource)</p>
+<p>V6、X6 Watermelon (non-opensource)</p>
+<p>V7、X7 Sister (non-opensource)</p>
+<p>V8、X8 Hamster (non-opensource)</p>
+<p>V9、X9 Dango (non-opensource)</p>
+<p>V10、X10 Bromel (non-opensource) ( <- latest version )</p>
 
 <p>Release notes</p>
 <p>2013.05.10 V1 Released.</p>
