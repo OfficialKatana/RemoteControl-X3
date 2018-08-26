@@ -1,0 +1,29 @@
+// hisfoo.idl : hisfoo.exe 的类型库源
+
+// 此文件将由 MIDL 编译器处理以产生
+// 类型库(hisfoo.tlb)。
+
+[ uuid(15AA0C80-785A-412D-9815-EDCDE788F39E), version(1.0) ]
+library hisfoo
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	//  ChisfooDoc 的主调度接口
+	
+	[ uuid(04A76836-E4B7-4BB8-8FF2-AEC5DD5AA23C) ]
+	dispinterface Ihisfoo
+	{
+		properties:
+			
+		methods:
+	};
+
+	//  ChisfooDoc 的类信息
+	
+	[ uuid(E15DCE55-7DFD-418F-8A09-960A02D1E97E) ]
+	coclass hisfoo
+	{
+		[default] dispinterface Ihisfoo;
+	};
+};
