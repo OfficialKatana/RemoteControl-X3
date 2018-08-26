@@ -12,6 +12,7 @@
 	<tr><th>File managing</th><th>Since V1</th></tr>
 	<tr><th>Anti-AutoPass</th><th>Since X3</th></tr>
 	<tr><th>DLL hijacking</th><th>Since X3</th></tr>
+	<tr><th>Client privilege auto promoting</th><th>Since V5</th></tr>
 	<tr><th>Screen shaking</th><th>Since X10</th></tr>
 	<tr><th>Shellcode executing</th><th>Since X10</th></tr>
 	<tr><th>Microphone and camera controlling</th><th>Since V4</th></tr>
