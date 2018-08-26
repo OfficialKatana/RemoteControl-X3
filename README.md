@@ -10,16 +10,23 @@
 	<tr><th>Remote shell executing</th></tr>
 	<tr><th>Remote Screen</th><th>Since X2</th></tr>
 	<tr><th>File managing</th><th>Since V1</th></tr>
+	<tr><th>Anti-AutoPass</th><th>Since X3</th></tr>
+	<tr><th>DLL hijacking</th><th>Since X3</th></tr>
 	<tr><th>Screen shaking</th><th>Since X10</th></tr>
 	<tr><th>Shellcode executing</th><th>Since X10</th></tr>
+	<tr><th>Microphone and camera controlling</th><th>Since V4</th></tr>
+	<tr><th>Linux/OS X server application software</th><th>Since X6</th></tr>
+	<tr><th>Internal network infecting</th><th>Since V4</th></tr>
 	<tr><th>Keyboard recoding</th><th>Since V3</th></tr>
 	<tr><th>Process injecting</th></tr>
 	<tr><th>BIOS injecting</th><th>Since V9</th></tr>
 	<tr><th>Multi-System compatible</th><th>Since V1</th></tr>
 	<tr><th>Android RMC SDK</th><th>Since V1</th></tr>
 	<tr><th>E Language SDK</th><th>Since V1</th></tr>
-	<tr><th>Javascript SDK</th><th>Since V1</th></tr>
-	<tr><th>Javascript SDK</th><th>Since V1</th></tr>
+	<tr><th>PHP/ASPX SDK</th><th>Since V1</th></tr>
+	<tr><th>SDK for iOS</th><th>Since X8</th></tr>
+	<tr><th>Javascript SDK</th><th>Since X1</th></tr>
+	<tr><th>C/C++/Go SDK</th><th>Since V1</th></tr>
 </table>
 
 <p><H2>Version (Released) History</H2></p>
