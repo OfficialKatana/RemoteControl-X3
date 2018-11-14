@@ -32,6 +32,12 @@
 	<tr><th>SDK for iOS</th><th>Since X8</th></tr>
 	<tr><th>Javascript SDK</th><th>Since X1</th></tr>
 	<tr><th>C/C++/Go SDK</th><th>Since V1</th></tr>
+	<tr><th>Win32 Rootkit</th><th>Since V11</th></tr>
+	<tr><th>Docker(VM/VirtualBox/SandBox) Detection</th><th>Since V11</th></tr>
+	<tr><th>Linux Run Over Platform</th><th>Since V11</th></tr>
+	<tr><th>ARM auto exploiting</th><th>Since V11</th></tr>
+	<tr><th>New RISC-V VM SDKs</th><th>Since V11</th></tr>
+	<tr><th>Saurik Router Plus Plus</th><th>Since V11</th></tr>
 </table>
 
 <p><H2>Version (Released) History</H2></p>
@@ -44,7 +50,8 @@
 <p>V7、X7 Sister (non-opensource)</p>
 <p>V8、X8 Hamster (non-opensource)</p>
 <p>V9、X9 Dango (non-opensource)</p>
-<p>V10、X10 Bromel (non-opensource) ( <- latest version )</p>
+<p>V10、X10 Bromel (non-opensource) ( <- stable version )</p>
+<p>V11 Optimus (non-opensource) ( <- latest version )</p>
 
 <p>Release notes</p>
 <p>2013.05.10 V1 Released.</p>
