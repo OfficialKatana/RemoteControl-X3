@@ -38,6 +38,8 @@
 	<tr><th>ARM auto exploiting</th><th>Since V11</th></tr>
 	<tr><th>New RISC-V VM SDKs</th><th>Since V11</th></tr>
 	<tr><th>Saurik Router Plus Plus</th><th>Since V11</th></tr>
+	<tr><th>SK Socket(Very Stable!)</th><th>Since V15</th></tr>
+	<tr><th>UDrive Thief(UDrive Monitor)</th><th>Since V15</th></tr>
 </table>
 
 <p><H2>Version (Released) History</H2></p>
@@ -51,7 +53,10 @@
 <p>V8、X8 Hamster (non-opensource)</p>
 <p>V9、X9 Dango (non-opensource)</p>
 <p>V10、X10 Bromel (non-opensource) ( <- stable version )</p>
-<p>V11 Optimus (non-opensource) ( <- latest version )</p>
+<p>V11 Optimus (non-opensource)</p>
+<p>V12 Stefani (non-opensource)</p>
+<p>V14、X14 SoulMaster (non-opensource)</p>
+<p>V15、X15 Mapper (non-opensource) ( <- latest version )</p>
 
 <p>Release notes</p>
 <p>2013.05.10 V1 Released.</p>
