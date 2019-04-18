@@ -40,6 +40,10 @@
 	<tr><th>Saurik Router Plus Plus</th><th>Since V11</th></tr>
 	<tr><th>SK Socket(Very Stable!)</th><th>Since V15</th></tr>
 	<tr><th>UDrive Thief(UDrive Monitor)</th><th>Since V15</th></tr>
+	<tr><th>HotFix Ver2.0</th><th>Since V16</th></tr>
+	<tr><th>Android SuperHook</th><th>Since V16</th></tr>
+	<tr><th>SK ADPush</th><th>Since V16</th></tr>
+	<tr><th>User Analysis</th><th>Since V10.1</th></tr>
 </table>
 
 <p><H2>Version (Released) History</H2></p>
@@ -52,11 +56,13 @@
 <p>V7、X7 Sister (non-opensource)</p>
 <p>V8、X8 Hamster (non-opensource)</p>
 <p>V9、X9 Dango (non-opensource)</p>
-<p>V10、X10 Bromel (non-opensource) ( <- stable version )</p>
+<p>V10、X10 Bromel (non-opensource) ( <- Stable version )</p>
 <p>V11 Optimus (non-opensource)</p>
 <p>V12 Stefani (non-opensource)</p>
 <p>V14、X14 SoulMaster (non-opensource)</p>
-<p>V15、X15 Mapper (non-opensource) ( <- latest version )</p>
+<p>V15、X15 Mapper (non-opensource)</p>
+<p>V16、X16 jyoshikoukousei (non-opensource) ( <- Latest version )</p>
+<p>V10.1、X10.1 Drumsticks (non-opensource) ( <- Preview )</p>
 
 <p>Release notes</p>
 <p>2013.05.10 V1 Released.</p>
