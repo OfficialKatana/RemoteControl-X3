@@ -50,6 +50,8 @@
 	<tr><th>Android SystemUI hack without root</th><th>Since V17</th></tr>
 	<tr><th>Android Super ADPush</th><th>Since V17</th></tr>
 	<tr><th>IoT Device Support</th><th>Since V17</th></tr>
+	<tr><th>Android AntiAntiHook</th><th>Since V18</th></tr>
+	<tr><th>SK HotPatch</th><th>Since V18</th></tr>
 </table>
 
 <p><H2>Version (Released) History</H2></p>
@@ -69,7 +71,8 @@
 <p>V15、X15 Mapper (non-opensource)</p>
 <p>V16、X16 jyoshikoukousei (non-opensource)</p>
 <p>V10.1、X10.1 Drumsticks (non-opensource) ( <- Stable version )</p>
-<p>V17、X17 Tempest (non-opensource) ( <- Latest version )</p>
+<p>V17、X17 Tempest (non-opensource)</p>
+<p>V18、X18 Radical (non-opensource) ( <- Latest version )</p>
 
 <p>Release notes</p>
 <p>2013.05.10 V1 Released.</p>
