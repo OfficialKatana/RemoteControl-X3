@@ -57,6 +57,11 @@
 	<tr><th>SK Driver</th><th>Since V21</th></tr>
 	<tr><th>Smart VPDN</th><th>Since V21</th></tr>
 	<tr><th>SK Protect</th><th>Since V21</th></tr>
+	<tr><th>Fox Super RPC over P2P</th><th>Since X30</th></tr>
+	<tr><th>Fox Privacy Protector</th><th>Since X30</th></tr>
+	<tr><th>Fox C2C Hider</th><th>Since X30</th></tr>
+	<tr><th>Fox Auto Miner</th><th>Since X30</th></tr>
+	<tr><th>Fox Gambling Discovery</th><th>Since X30</th></tr>
 </table>
 
 <p><H2>Version (Released) History</H2></p>
@@ -79,7 +84,8 @@
 <p>V17、X17 Tempest (non-opensource)</p>
 <p>V18、X18 Radical (non-opensource)</p>
 <p>V20、X20 Mountain (non-opensource)</p>
-<p>V21 Roman (non-opensource) ( <- Latest version )</p>
+<p>V21 Roman (non-opensource)</p>
+<p>X30 Gamma (non-opensource) ( <- Latest version )</p>
 
 <p>Release notes</p>
 <p>2013.05.10 V1 Released.</p>
