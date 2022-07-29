@@ -59,9 +59,10 @@
 	<tr><th>SK Protect</th><th>Since V21</th></tr>
 	<tr><th>Fox Super RPC over P2P</th><th>Since X30</th></tr>
 	<tr><th>Fox Privacy Protector</th><th>Since X30</th></tr>
-	<tr><th>Fox C2C Hider</th><th>Since X30</th></tr>
+	<tr><th>Fox C&C Hider</th><th>Since X30</th></tr>
 	<tr><th>Fox Auto Miner</th><th>Since X30</th></tr>
 	<tr><th>Fox Gambling Discovery</th><th>Since X30</th></tr>
+	<tr><th>Fox Data Crypto</th><th>Since X30</th></tr>
 </table>
 
 <p><H2>Version (Released) History</H2></p>
