@@ -86,7 +86,7 @@
 <p>V18、X18 Radical (non-opensource)</p>
 <p>V20、X20 Mountain (non-opensource)</p>
 <p>V21 Roman (non-opensource)</p>
-<p>X30 Gamma (non-opensource) ( <- Latest version )</p>
+<p>P30、X30 Escape (non-opensource) ( <- Latest version )</p>
 
 <p>Release notes</p>
 <p>2013.05.10 V1 Released.</p>
